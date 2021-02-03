@@ -1,2 +1,0 @@
-# gitPioneer
-My first repos
